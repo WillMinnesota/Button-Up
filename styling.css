@@ -1,0 +1,25 @@
+* {
+    margin: 10px;
+}
+
+.search {
+    width: 100px;
+    border: 1px solid #44bec0;
+    border-radius: 10px;
+    color: #46b4b6;
+}
+
+.add {
+    color: white;
+    background-color: #38cca7;
+    border-radius: 50%;
+}
+
+.create {
+    color: white;
+    background-color: #3476d3;
+    border: 2.5px solid black;
+    width: 160px;
+    padding: 10px;
+    box-shadow: 10px 5px 5px black;
+}
